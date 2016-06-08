@@ -1,0 +1,41 @@
+{
+  "name": "bloggify-viewer",
+  "description": "Connects the CRUD operations with the renderer.",
+  "keywords": [
+    "bloggify",
+    "viewer",
+    "connects",
+    "the",
+    "crud",
+    "operations",
+    "with",
+    "renderer"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-viewer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/bloggify-viewer/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/bloggify-viewer#readme"
+}
