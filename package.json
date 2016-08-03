@@ -39,10 +39,10 @@
   },
   "homepage": "https://github.com/IonicaBizau/bloggify-viewer#readme",
   "bloggify": {
-      "config": {
-          "blogPage": {
-              "itemCount": 3
-          }
+    "config": {
+      "blogPage": {
+        "itemCount": 3
       }
+    }
   }
 }
