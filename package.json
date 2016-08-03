@@ -37,5 +37,12 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/bloggify-viewer/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-viewer#readme"
+  "homepage": "https://github.com/IonicaBizau/bloggify-viewer#readme",
+  "bloggify": {
+      "config": {
+          "blogPage": {
+              "itemCount": 3
+          }
+      }
+  }
 }
