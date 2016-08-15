@@ -44,5 +44,8 @@
         "itemCount": 3
       }
     }
+  },
+  "dependencies": {
+    "ul": "^5.2.2"
   }
 }
