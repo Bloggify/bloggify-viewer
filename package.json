@@ -46,6 +46,9 @@
     }
   },
   "dependencies": {
+    "bloggify-article": "^1.0.0",
+    "bloggify-page": "^1.0.0",
+    "same-time": "^2.3.1",
     "ul": "^5.2.2"
   }
 }
