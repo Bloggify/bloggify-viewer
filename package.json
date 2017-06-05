@@ -12,32 +12,32 @@
     "renderer"
   ],
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
   "files": [
     "bin/",
     "app/",
     "lib/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-viewer.git"
+    "url": "git+ssh://git@github.com/Bloggify/bloggify-viewer.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-viewer/issues"
+    "url": "https://github.com/Bloggify/bloggify-viewer/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/bloggify-viewer#readme",
+  "homepage": "https://github.com/Bloggify/bloggify-viewer#readme",
   "bloggify": {
     "config": {
       "blogPage": {
@@ -50,5 +50,8 @@
     "bloggify-page": "^1.0.0",
     "same-time": "^2.3.1",
     "ul": "^5.2.2"
+  },
+  "blah": {
+    "description": "This module is used internally."
   }
 }
